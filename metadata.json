@@ -1,0 +1,7 @@
+{
+  "name": "EquiGuard AI - SDG 5 Gender Equality Agent",
+  "description": "An advanced AI-powered dashboard and chatbot designed to detect gender bias in content, identify online harassment, and promote workplace equality through intelligent analysis and automated safety workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
